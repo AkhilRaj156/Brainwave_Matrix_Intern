@@ -1,2 +1,2 @@
 # Brainwave_Matrix_Intern
-Pyhton Program for ATM Functionality
+Python Program for ATM Functionality
